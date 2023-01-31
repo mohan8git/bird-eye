@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/bird-eye/static/js/main.b0cfab1d.js",
+    "index.html": "/bird-eye/index.html",
+    "main.b0cfab1d.js.map": "/bird-eye/static/js/main.b0cfab1d.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.b0cfab1d.js"
+  ]
+}
